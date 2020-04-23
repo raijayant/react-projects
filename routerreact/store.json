@@ -1,0 +1,45 @@
+{
+    "writers": [
+        {
+            "id": "ralph-waldo-emerson",
+            "name": "ralph-waldo-emerson",
+            "born": "May 25, 1803",
+            "deceased": "June 1, 1888",
+            "description": "Ralph Waldo Emerson (May 25, 1803 – April 27, 1882)[5] was an American essayist, lecturer, philosopher, and poet who led the transcendentalist movement of the mid-19th century. He was seen as a champion of individualism and a prescient critic of the countervailing pressures of society, and he disseminated his thoughts through dozens of published essays and more than 1,500 public lectures across the United States.",
+            "image": "https://en.wikipedia.org/wiki/File:Ralph_Waldo_Emerson_ca1857_retouched.jpg"
+        },
+        {
+            "id": "freidrich-nietesch",
+            "name": "freidrich-nietesch",
+            "born": "June 1, 1921",
+            "deceased": "January 7, 1997",
+            "description": "Frederick Douglass (born Frederick Augustus Washington Bailey; c. February 1818[4] – February 20, 1895[5]) was an American social reformer, abolitionist, orator, writer, and statesman. After escaping from slavery in Maryland, he became a national leader of the abolitionist movement in Massachusetts and New York, gaining note for his oratory[6] and incisive antislavery writings.",
+            "image": "https://en.wikipedia.org/wiki/File:Frederick_Douglass_(circa_1879).jpg"
+        },
+        {
+            "id": "carl jung",
+            "name": "carl jung",
+            "born": "May 7, 1882",
+            "deceased": "May 29, 1990",
+            "description": "Carl Gustav Jung (/jʊŋ/ YUUNG,[5][6] German: [kaʁl ˈjʊŋ]; 26 July 1875 – 6 June 1961) was a Swiss psychiatrist and psychoanalyst who founded analytical psychology. Jung's work was influential in the fields of psychiatry, anthropology, archaeology, literature, philosophy, and religious studies. Jung worked as a research scientist at the famous Burghölzli hospital, under Eugen Bleuler. During this time, he came to the attention of Sigmund Freud, the founder of psychoanalysis. The two men conducted a lengthy correspondence and collaborated, for a while, on a joint vision of human psychology.",
+            "image": "https://en.wikipedia.org/wiki/File:CGJung.jpg"
+        },
+        {
+            "id": "joseph-campbell",
+            "name": "joseph-campbell",
+            "born": "August 21, 1780",
+            "deceased": "December 2, 1801",
+            "description": "Joseph John Campbell (March 26, 1904 – October 30, 1987) was an American professor of literature at Sarah Lawrence College who worked in comparative mythology and comparative religion. His work covers many aspects of the human experience. Campbell's most well-known work is his book The Hero with a Thousand Faces (1949), in which he discusses his theory of the journey of the archetypal hero shared by world mythologies, termed the monomyth.",
+            "image": "https://en.wikipedia.org/wiki/File:Joseph_Campbell_circa_1982.jpg"
+        },
+        {
+            "id": "Hunter Gwala",
+            "name": "Hunter Gwala",
+            "born": "February 21, 1610",
+            "deceased": "January 10, 1700",
+            "description": "Hunter Stockton Thompson (July 18, 1937 – February 20, 2005) was an American journalist and author, and the founder of the gonzo journalism movement. He first rose to prominence with the publication of Hell's Angels (1967), a book for which he spent a year living and riding with the Hells Angels motorcycle gang in order to write a first-hand account of the lives and experiences of its members.",
+            "image": "https://en.wikipedia.org/wiki/File:Hst-by-rsexton-longbeach-5-1989-0.jpg"
+        }
+
+    ]
+}
